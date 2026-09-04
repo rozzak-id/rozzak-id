@@ -44,6 +44,6 @@
   </g>
 
   <!-- bottom tagline strip -->
-  <rect x="42" y="170" width="560" height="6" fill="#FACC15" stroke="#000000" stroke-width="2"/>
-  <text x="80" y="196" class="tag" fill="#000000">NODE.JS &#8226; BAILEYS &#8226; WHATSAPP BOTS &#8226; WEBSITES</text>
+  <rect x="42" y="162" width="560" height="6" fill="#FACC15" stroke="#000000" stroke-width="2"/>
+  <text x="80" y="186" class="tag" fill="#000000">NODE.JS &#8226; BAILEYS &#8226; WHATSAPP BOTS &#8226; WEBSITES</text>
 </svg>

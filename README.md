@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/rozzak_mcd"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@rozzak.id"><img src="https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000" alt="TikTok" /></a>
-  <a href="https://github.com/rozzak2009"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://instagram.com/rozzak_mcd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@rozzak.id"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok" /></a>
+  <a href="https://github.com/rozzak2009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
