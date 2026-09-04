@@ -1,50 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
-  <!-- Neobrutalism slim banner: blue / yellow / white / red, thick black borders, hard shadows -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220" fill="none">
   <defs>
     <style>
-      .name { font-family: Arial, Helvetica, sans-serif; font-weight: 900; font-size: 48px; letter-spacing: 1px; }
-      .tag  { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 15px; letter-spacing: 3px; }
-      .chip { font-family: Arial, Helvetica, sans-serif; font-weight: 800; font-size: 16px; letter-spacing: 1px; }
+      .text-title-black {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        font-size: 33px;
+        fill: #000000;
+        letter-spacing: -0.5px;
+      }
+      .text-title-blue {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        font-size: 33px;
+        fill: #2563EB;
+        letter-spacing: -0.5px;
+      }
+      .text-subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 12px;
+        fill: #1F2937;
+        letter-spacing: 1.5px;
+      }
+      .chip-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 13px;
+        text-anchor: middle;
+        dominant-baseline: central;
+        letter-spacing: 0.8px;
+      }
     </style>
   </defs>
 
-  <!-- hard shadow -->
-  <rect x="16" y="16" width="1170" height="190" fill="#000000"/>
-  <!-- main panel -->
-  <rect x="8" y="8" width="1170" height="190" fill="#FFFFFF" stroke="#000000" stroke-width="6"/>
+  <!-- Neo-brutalism Frame Shadow -->
+  <rect x="14" y="14" width="824" height="196" rx="6" fill="#000000" />
 
-  <!-- left color stripes -->
-  <rect x="8" y="8" width="24" height="190" fill="#2563EB"/>
-  <rect x="32" y="8" width="8" height="190" fill="#FACC15"/>
+  <!-- Main Card Container -->
+  <rect x="6" y="6" width="824" height="196" rx="6" fill="#FFFFFF" stroke="#000000" stroke-width="4" />
 
-  <!-- vertical divider -->
-  <rect x="700" y="34" width="4" height="138" fill="#000000"/>
+  <!-- Vertical Divider -->
+  <line x1="530" y1="6" x2="530" y2="202" stroke="#000000" stroke-width="4" />
 
-  <!-- name -->
-  <text x="72" y="98" class="name" fill="#000000">MUHAMMAD YUSRA</text>
-  <text x="72" y="150" class="name" fill="#2563EB">ROZZAK ALFITRAH</text>
+  <!-- LEFT SECTION -->
+  <!-- Blue Accent Bar -->
+  <rect x="28" y="30" width="8" height="148" rx="4" fill="#2563EB" />
 
-  <!-- yellow accent bar under name -->
-  <rect x="72" y="162" width="300" height="8" fill="#FACC15" stroke="#000000" stroke-width="3"/>
+  <!-- Titles -->
+  <text x="52" y="74" class="text-title-black">MUHAMMAD YUSRA</text>
+  <text x="52" y="114" class="text-title-blue">ROZZAK ALFITRAH</text>
 
-  <!-- tagline -->
-  <text x="72" y="192" class="tag" fill="#000000">STUDENT &#8226; WEB DEVELOPER &#8226; VIBE CODER</text>
+  <!-- Subtitle Divider -->
+  <line x1="52" y1="135" x2="505" y2="135" stroke="#000000" stroke-width="3" />
 
-  <!-- right chips stack -->
+  <!-- Subtitle Text -->
+  <text x="52" y="165" class="text-subtitle">STUDENT • WEB DEVELOPER • VIBE CODER</text>
+
+  <!-- RIGHT SECTION (CHIPS) -->
+  <!-- Chip 1: WhatsApp Bot Developer -->
   <g>
-    <!-- chip 1 -->
-    <rect x="766" y="46" width="380" height="42" fill="#000000"/>
-    <rect x="760" y="40" width="380" height="42" fill="#2563EB" stroke="#000000" stroke-width="4"/>
-    <text x="950" y="67" class="chip" fill="#FFFFFF" text-anchor="middle">WHATSAPP BOT DEVELOPER</text>
+    <rect x="555" y="25" width="254" height="44" rx="4" fill="#000000" />
+    <rect x="552" y="22" width="254" height="44" rx="4" fill="#2563EB" stroke="#000000" stroke-width="3" />
+    <text x="679" y="44" class="chip-text" fill="#FFFFFF">WHATSAPP BOT DEVELOPER</text>
+  </g>
 
-    <!-- chip 2 -->
-    <rect x="766" y="106" width="380" height="42" fill="#000000"/>
-    <rect x="760" y="100" width="380" height="42" fill="#FACC15" stroke="#000000" stroke-width="4"/>
-    <text x="950" y="127" class="chip" fill="#000000" text-anchor="middle">NODE.JS &amp; BAILEYS</text>
+  <!-- Chip 2: Node.js & Baileys -->
+  <g>
+    <rect x="555" y="85" width="254" height="44" rx="4" fill="#000000" />
+    <rect x="552" y="82" width="254" height="44" rx="4" fill="#FFDE59" stroke="#000000" stroke-width="3" />
+    <text x="679" y="104" class="chip-text" fill="#000000">NODE.JS &amp; BAILEYS</text>
+  </g>
 
-    <!-- chip 3 -->
-    <rect x="766" y="166" width="380" height="42" fill="#000000"/>
-    <rect x="760" y="160" width="380" height="42" fill="#EF4444" stroke="#000000" stroke-width="4"/>
-    <text x="950" y="187" class="chip" fill="#FFFFFF" text-anchor="middle">WEBSITES &amp; APIS</text>
+  <!-- Chip 3: Websites & APIs -->
+  <g>
+    <rect x="555" y="145" width="254" height="44" rx="4" fill="#000000" />
+    <rect x="552" y="142" width="254" height="44" rx="4" fill="#FF4D4D" stroke="#000000" stroke-width="3" />
+    <text x="679" y="164" class="chip-text" fill="#FFFFFF">WEBSITES &amp; APIS</text>
   </g>
 </svg>
