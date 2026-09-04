@@ -42,13 +42,47 @@ WhatsApp bots, web apps & APIs, and security audits — learning in public, one 
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rozzak2009&show_icons=true&title_color=2563EB&icon_color=EF4444&text_color=000000&bg_color=FFFFFF&border_color=000000&border_width=3" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rozzak2009&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub streak" height="165" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak2009&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak2009&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak2009&theme=github" alt="GitHub stats" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rozzak2009&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rozzak2009&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" />
+        <img src="https://streak-stats.demolab.com/?user=rozzak2009&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub streak" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak2009&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak2009&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak2009&theme=github" alt="Repos per language" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak2009&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak2009&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak2009&theme=github" alt="Most commit language" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozzak2009&layout=compact&title_color=2563EB&text_color=000000&bg_color=FFFFFF&border_color=000000&border_width=3" alt="Top languages" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak2009&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak2009&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak2009&theme=github" alt="Profile details" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -62,5 +96,5 @@ WhatsApp bots, web apps & APIs, and security audits — learning in public, one 
 ---
 
 <p align="center">
-  <sub>Neobrutalism slim theme — blue / yellow / white / red. Built with Node.js energy.</sub>
+  <sub><i>Neobrutalism slim theme — blue / yellow / white / red. Built with Node.js energy.</i></sub>
 </p>
