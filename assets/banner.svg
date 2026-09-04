@@ -1,49 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
-  <!-- Neobrutalism slim banner: blue / yellow / white / red, black thick borders, hard shadows -->
+  <!-- Neobrutalism slim banner: blue / yellow / white / red, thick black borders, hard shadows -->
   <defs>
     <style>
-      .name { font-family: Arial, Helvetica, sans-serif; font-weight: 900; font-size: 52px; letter-spacing: 1px; }
-      .tag  { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 17px; letter-spacing: 3px; }
-      .chip { font-family: Arial, Helvetica, sans-serif; font-weight: 800; font-size: 15px; }
+      .name { font-family: Arial, Helvetica, sans-serif; font-weight: 900; font-size: 48px; letter-spacing: 1px; }
+      .tag  { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 15px; letter-spacing: 3px; }
+      .chip { font-family: Arial, Helvetica, sans-serif; font-weight: 800; font-size: 16px; letter-spacing: 1px; }
     </style>
   </defs>
 
   <!-- hard shadow -->
-  <rect x="14" y="14" width="1172" height="192" fill="#000000"/>
+  <rect x="16" y="16" width="1170" height="190" fill="#000000"/>
   <!-- main panel -->
-  <rect x="6" y="6" width="1172" height="192" fill="#FFFFFF" stroke="#000000" stroke-width="6"/>
+  <rect x="8" y="8" width="1170" height="190" fill="#FFFFFF" stroke="#000000" stroke-width="6"/>
 
-  <!-- color blocks -->
-  <rect x="6" y="6" width="26" height="192" fill="#2563EB"/>
-  <rect x="32" y="6" width="10" height="192" fill="#FACC15"/>
-  <rect x="1158" y="6" width="20" height="192" fill="#EF4444"/>
+  <!-- left color stripes -->
+  <rect x="8" y="8" width="24" height="190" fill="#2563EB"/>
+  <rect x="32" y="8" width="8" height="190" fill="#FACC15"/>
 
-  <!-- corner blocks -->
-  <rect x="1060" y="30" width="70" height="34" fill="#FACC15" stroke="#000000" stroke-width="4"/>
-  <rect x="1068" y="38" width="70" height="34" fill="none" stroke="#000000" stroke-width="2" opacity="0.35"/>
-  <rect x="1030" y="150" width="100" height="30" fill="#2563EB" stroke="#000000" stroke-width="4"/>
+  <!-- vertical divider -->
+  <rect x="700" y="34" width="4" height="138" fill="#000000"/>
 
   <!-- name -->
-  <text x="80" y="96" class="name" fill="#000000">MUHAMMAD YUSRA ROZZAK</text>
-  <text x="80" y="148" class="name" fill="#2563EB">ALFITRAH</text>
-  <rect x="80" y="108" width="500" height="6" fill="#000000"/>
+  <text x="72" y="98" class="name" fill="#000000">MUHAMMAD YUSRA</text>
+  <text x="72" y="150" class="name" fill="#2563EB">ROZZAK ALFITRAH</text>
 
-  <!-- red asterisk accent -->
-  <text x="520" y="150" class="name" fill="#EF4444" font-size="44px">*</text>
+  <!-- yellow accent bar under name -->
+  <rect x="72" y="162" width="300" height="8" fill="#FACC15" stroke="#000000" stroke-width="3"/>
 
-  <!-- chips -->
+  <!-- tagline -->
+  <text x="72" y="192" class="tag" fill="#000000">STUDENT &#8226; WEB DEVELOPER &#8226; VIBE CODER</text>
+
+  <!-- right chips stack -->
   <g>
-    <rect x="600" y="118" width="118" height="34" fill="#FACC15" stroke="#000000" stroke-width="4"/>
-    <text x="659" y="141" class="chip" fill="#000000" text-anchor="middle">STUDENT</text>
+    <!-- chip 1 -->
+    <rect x="766" y="46" width="380" height="42" fill="#000000"/>
+    <rect x="760" y="40" width="380" height="42" fill="#2563EB" stroke="#000000" stroke-width="4"/>
+    <text x="950" y="67" class="chip" fill="#FFFFFF" text-anchor="middle">WHATSAPP BOT DEVELOPER</text>
 
-    <rect x="730" y="118" width="118" height="34" fill="#2563EB" stroke="#000000" stroke-width="4"/>
-    <text x="789" y="141" class="chip" fill="#FFFFFF" text-anchor="middle">WEB DEV</text>
+    <!-- chip 2 -->
+    <rect x="766" y="106" width="380" height="42" fill="#000000"/>
+    <rect x="760" y="100" width="380" height="42" fill="#FACC15" stroke="#000000" stroke-width="4"/>
+    <text x="950" y="127" class="chip" fill="#000000" text-anchor="middle">NODE.JS &amp; BAILEYS</text>
 
-    <rect x="860" y="118" width="140" height="34" fill="#EF4444" stroke="#000000" stroke-width="4"/>
-    <text x="930" y="141" class="chip" fill="#FFFFFF" text-anchor="middle">VIBE CODER</text>
+    <!-- chip 3 -->
+    <rect x="766" y="166" width="380" height="42" fill="#000000"/>
+    <rect x="760" y="160" width="380" height="42" fill="#EF4444" stroke="#000000" stroke-width="4"/>
+    <text x="950" y="187" class="chip" fill="#FFFFFF" text-anchor="middle">WEBSITES &amp; APIS</text>
   </g>
-
-  <!-- bottom tagline strip -->
-  <rect x="42" y="162" width="560" height="6" fill="#FACC15" stroke="#000000" stroke-width="2"/>
-  <text x="80" y="186" class="tag" fill="#000000">NODE.JS &#8226; BAILEYS &#8226; WHATSAPP BOTS &#8226; WEBSITES</text>
 </svg>
