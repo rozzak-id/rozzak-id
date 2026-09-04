@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://instagram.com/rozzak_mcd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
   <a href="https://tiktok.com/@rozzak.id"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok" /></a>
-  <a href="https://github.com/rozzak2009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://github.com/rozzak-id"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </p>
 
 ## Tech Stack
@@ -46,32 +46,32 @@ WhatsApp bots, web apps & APIs, and security audits — learning in public, one 
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak2009&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak2009&theme=github" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak2009&theme=github" alt="GitHub stats" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak-id&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak-id&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rozzak-id&theme=github" alt="GitHub stats" width="100%" />
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rozzak2009&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rozzak2009&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" />
-        <img src="https://streak-stats.demolab.com/?user=rozzak2009&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub streak" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rozzak-id&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rozzak-id&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" />
+        <img src="https://streak-stats.demolab.com/?user=rozzak-id&background=FFFFFF&border=000000&stroke=000000&ring=2563EB&fire=EF4444&currStreakLabel=2563EB&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub streak" width="100%" />
       </picture>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak2009&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak2009&theme=github" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak2009&theme=github" alt="Repos per language" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak-id&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak-id&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rozzak-id&theme=github" alt="Repos per language" width="100%" />
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak2009&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak2009&theme=github" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak2009&theme=github" alt="Most commit language" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak-id&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak-id&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rozzak-id&theme=github" alt="Most commit language" width="100%" />
       </picture>
     </td>
   </tr>
@@ -79,17 +79,17 @@ WhatsApp bots, web apps & APIs, and security audits — learning in public, one 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak2009&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak2009&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak2009&theme=github" alt="Profile details" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak-id&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak-id&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozzak-id&theme=github" alt="Profile details" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rozzak2009/rozzak2009/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rozzak2009/rozzak2009/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/rozzak2009/rozzak2009/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rozzak-id/rozzak-id/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rozzak-id/rozzak-id/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rozzak-id/rozzak-id/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
   </picture>
 </p>
 
